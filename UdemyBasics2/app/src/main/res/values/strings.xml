@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Udemy Basics 2</string>
+    <string name="square_triangular_toast">It\'s Square and Triangular!</string>
+    <string name="square_not_triangular_toast">It\'s only Square\, not Triangular</string>
+    <string name="triangular_not_square_toast">It\'s only Triangular\, not Square</string>
+    <string name="neither_square_triangular_toast">It\'s neither a Square nor Triangular</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_memorable_places_maps">Map</string>
+</resources>

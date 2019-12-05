@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="addNew">Add New</string>
+    <string name="listName">List Name</string>
+    <string name="category">Category</string>
+    <string name="reminderNeed">Reminder Needed</string>
+    <string name="time">Time </string>
+    <string name="save">Save</string>
+    <string name="itemName">Enter Item Name</string>
+    <string name="quantity">Enter Quantity</string>
+    <string name="warning">Warning !! </string>
+    <string name="warningMessage"> Are you sure you want to delete ? </string>
+    <string name="yes">Yes </string>
+    <string name="no">No </string>
+    <string name="actionChoose">Choose the action you want to perform</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="deleteAll">Delete All</string>
+    <string name="userNotes">User Notes</string>
+    <string name="shareStatus">Share Status</string>
+    <string name="addItem">Add Item</string>
+    <string name="date">Date</string>
+    <string name="day">Day</string>
+    <string name="one">1</string>
+    <string name="month">Month</string>
+    <string name="strikeAll">Strike All</string>
+    <string name="unStrikeAll">Unstrike All</string>
+    <string name="cancel">Cancel</string>
+    <string name="itemList">Item List</string>
+
+    <string-array name="categorySpinner">
+        <item>None</item>
+        <item>Monthly</item>
+        <item>Weekly</item>
+        <item>Daily</item>
+        <item>One Time</item>
+    </string-array>
+
+    <string-array name="timeSpinner">
+        <item>02:00</item>
+        <item>04:00</item>
+        <item>06:00</item>
+        <item>08:00</item>
+        <item>10:00</item>
+        <item>12:00</item>
+        <item>14:00</item>
+        <item>16:00</item>
+        <item>18:00</item>
+        <item>20:00</item>
+        <item>22:00</item>
+        <item>24:00</item>
+    </string-array>
+
+    <string-array name="daySpinner">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+    <string-array name="dateSpinner">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+
+    <string-array name="monthSpinner">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+</resources>

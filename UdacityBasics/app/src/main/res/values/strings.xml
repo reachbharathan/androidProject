@@ -1,0 +1,80 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    // Coffee Ordering App
+
+    <string name="app_name">UdacityBasics</string>
+    <string name="whippedCream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="price">PRICE</string>
+    <string name="order">ORDER</string>
+    <string name="summary">ORDER SUMMARY</string>
+    <string name="minimumOrder">Minimum Order Quantity is 1</string>
+    <string name="addName">Enter Your Name</string>
+    <string name="checkPrice">Check Price</string>
+    <string name="subject">Coffee Order</string>
+    <string name="addWhippedCream">Whipped Cream Added : <xliff:g example="Yes" id="wc">%s</xliff:g></string>
+    <string name="addChocolate">Chocolate Added : <xliff:g example="Yes" id="ch">%s</xliff:g></string>
+    <string name="name">Name : <xliff:g example="Yes" id="nm">%s</xliff:g></string>
+    <string name="price1">Price : <xliff:g example="Yes" id="pr">%s</xliff:g></string>
+    <string name="quantity1">Quantity : <xliff:g example="Yes" id="qn">%s</xliff:g></string>
+    <string name="thnkYou">Thank You!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+
+    // Miwok App
+
+    <string name="mnumber">Numbers</string>
+    <string name="mfamilyMember">Family Members</string>
+    <string name="mcolors">Colors</string>
+    <string name="mphrases">Phrases</string>
+
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="four">Four</string>
+    <string name="five">Five</string>
+    <string name="six">Six</string>
+    <string name="seven">Seven</string>
+    <string name="eight">Eight</string>
+    <string name="nine">Nine</string>
+    <string name="ten">Ten</string>
+
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="brown">Brown</string>
+    <string name="gray">Gray</string>
+    <string name="black">Black</string>
+    <string name="white">White</string>
+    <string name="dustyYellow">Dusty Yellow</string>
+    <string name="mustardYellow">Mustard Yellow</string>
+
+    <string name="father">Father</string>
+    <string name="mother">Mother</string>
+    <string name="son">Son</string>
+    <string name="daughter">Daughter</string>
+    <string name="oldBro">Older Brother</string>
+    <string name="youngBro">Younger Brother</string>
+    <string name="oldSis">Older Sister</string>
+    <string name="youngSis">Younger Sister</string>
+    <string name="grandMother">Grand Mother</string>
+    <string name="grandFather">Grand Father</string>
+
+    <string name="phrase1">Where are you going?</string>
+    <string name="phrase2">What is your name?</string>
+    <string name="phrase3">My name is...</string>
+    <string name="phrase4">How are you feeling?</string>
+    <string name="phrase6">I’m feeling good.</string>
+    <string name="phrase7">Are you coming?</string>
+    <string name="phrase8">Yes, I’m coming.</string>
+    <string name="phrase5">I’m coming.</string>
+    <string name="phrase9">Let’s go.</string>
+    <string name="phrase0">Come here.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

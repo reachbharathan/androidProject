@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/strikeAll"
+        android:id="@+id/strikeAll"></item>
+
+    <item android:title="@string/unStrikeAll"
+        android:id="@+id/unstrikeAll"></item>
+
+    <item android:title="@string/deleteAll"
+        android:id="@+id/deleteAll"></item>
+
+    <item android:id="@+id/share"
+        android:title="@string/shareStatus"></item>
+
+</menu>

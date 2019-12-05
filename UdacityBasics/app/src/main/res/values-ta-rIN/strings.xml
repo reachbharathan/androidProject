@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" >
+
+    <string name="app_name">UdacityBasics</string>
+    <string name="whippedCream">தட்டிவிட்டு கிரீம்</string>
+    <string name="chocolate">சாக்லேட்</string>
+    <string name="quantity">அளவு</string>
+    <string name="toppings">மேல்புறத்தில்</string>
+    <string name="price">விலை</string>
+    <string name="order">ஆர்டர்</string>
+    <string name="summary">ஆர்டர் சுருக்கம்</string>
+    <string name="minimumOrder">குறைந்தபட்ச ஆர்டர் அளவு 1 ஆகும்</string>
+    <string name="addName">உங்கள் பெயரை உள்ளிடவும்</string>
+    <string name="checkPrice">விலை சரிபார்க்க</string>
+    <string name="subject">காபி ஆர்டர்</string>
+    <string name="addWhippedCream">தட்டிவிட்டு கிரீம் சேர்க்கப்பட்டது : <xliff:g id = "wc" example= "Yes">%s</xliff:g></string>
+    <string name="addChocolate">சாக்லேட் சேர்க்கப்பட்டது : <xliff:g id = "ch" example= "Yes">%s</xliff:g></string>
+    <string name="name">பெயர் : <xliff:g id = "nm" example= "Yes">%s</xliff:g></string>
+    <string name="price1">விலை : <xliff:g id = "pr" example= "10">%s</xliff:g></string>
+    <string name="quantity1">அளவு : <xliff:g id = "qn" example= "Yes">%s</xliff:g></string>
+    <string name="thnkYou">நன்றி!</string>
+    <string name="yes">ஆம்</string>
+    <string name="no">இல்லை</string>
+
+    <string name="mnumber">Numbers</string>
+    <string name="mfamilyMember">Family Members</string>
+    <string name="mcolors">Colors</string>
+    <string name="mphrases">Phrases</string>
+
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="four">Four</string>
+    <string name="five">Five</string>
+    <string name="six">Six</string>
+    <string name="seven">Seven</string>
+    <string name="eight">Eight</string>
+    <string name="nine">Nine</string>
+    <string name="ten">Ten</string>
+
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="brown">Brown</string>
+    <string name="gray">Gray</string>
+    <string name="black">Black</string>
+    <string name="white">White</string>
+    <string name="dustyYellow">Dusty Yellow</string>
+    <string name="mustardYellow">Mustard Yellow</string>
+
+    <string name="father">Father</string>
+    <string name="mother">Mother</string>
+    <string name="son">Son</string>
+    <string name="daughter">Daughter</string>
+    <string name="oldBro">Older Brother</string>
+    <string name="youngBro">Younger Brother</string>
+    <string name="oldSis">Older Sister</string>
+    <string name="youngSis">Younger Sister</string>
+    <string name="grandMother">Grand Mother</string>
+    <string name="grandFather">Grand Father</string>
+
+    <string name="phrase1">Where are you going?</string>
+    <string name="phrase2">What is your name?</string>
+    <string name="phrase3">My name is...</string>
+    <string name="phrase4">How are you feeling?</string>
+    <string name="phrase6">I’m feeling good.</string>
+    <string name="phrase7">Are you coming?</string>
+    <string name="phrase8">Yes, I’m coming.</string>
+    <string name="phrase5">I’m coming.</string>
+    <string name="phrase9">Let’s go.</string>
+    <string name="phrase0">Come here.</string>
+
+</resources>
+
+
+
+
+
